@@ -1,0 +1,80 @@
+/* NAVBAR */
+
+ .Made{
+ 	text-align: center;
+ 	margin: 50px auto;
+ 	font-size: 1rem;
+ }
+
+ #title{
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  text-align: center;
+
+}
+
+.n {
+  background-color: 
+}
+
+.a {
+  background-color:
+}
+
+.t {
+  background-color:
+}
+
+.u {
+  background-color:
+}
+
+.r {
+  background-color:
+}
+
+.e {
+ background-color:
+}
+
+.e {
+ background-color:
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+ 
+}
+
+.group{
+	 text-align: center;
+}
